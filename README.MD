@@ -1,4 +1,4 @@
-# MRCTF2020-writeups
+# MRCTF2022-writeups
 
 本文档收集整理了MRCTF2022的官方与非官方题解。
 
